@@ -22,7 +22,7 @@ import {
 const App = () => {
   return (
     <Provider store={store}>
-      <Text>Test</Text>
+      <Text>Test12</Text>
       <Home />
     </Provider>
   );
