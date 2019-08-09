@@ -56,6 +56,10 @@ buck-out/
 *.jsbundle
 
 # CocoaPods
+<<<<<<< HEAD
+/ios/Pods/
+=======
 /ios/Pods/
 
 #hello
+>>>>>>> demo
